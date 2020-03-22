@@ -20,6 +20,13 @@ export default class Home extends Component {
                 <p>{cat.description}</p>
               </li>
             ))}
+            <style jsx>
+              {`
+                ul{
+                  background-color:green
+                }
+              `}
+            </style>
           </ul>
         </article>
       </>
