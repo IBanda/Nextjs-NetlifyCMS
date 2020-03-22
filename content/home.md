@@ -1,7 +1,7 @@
 ---
 title: Awesome kitties
 date: 2019-03-17T19:31:20.591Z
-
+image: /img/18403.jpg "img"
 cats:
   - description: Lil Bub is an American celebrity cat known for her unique appearance.
     name: Lil Bub
@@ -10,7 +10,7 @@ cats:
   - description: Grumpy cat is an American celebrity cat known for her grumpy appearance.
     name: Grumpy cat (Tardar Sauce)
 ---
-![img](/img/18403.jpg "img")
+
 
 Welcome to my awesome page about cats of the internet.
 
