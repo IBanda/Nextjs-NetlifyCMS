@@ -7,7 +7,7 @@ collections:
   - name: "pages"
     label: "Pages"
     create: true
-    files:
+    folder:
     - label: "Home"
       name: "home"
       file: "content/home.md"
@@ -21,4 +21,5 @@ collections:
           fields:
             - { label: "Name", name: "name", widget: "string"}
             - { label: "Description", name: "description", widget: "text"}
+  
     
