@@ -7,11 +7,11 @@ collections:
   - name: "pages"
     label: "Pages"
     create: true
-    folder:
+    folder: "_pages/site"
     - label: "Home"
       name: "home"
       file: "content/home.md"
-      fields: "_pages/site"
+      fields: 
         - { label: "Title", name: "title", widget: "string"}
         - { label: "Publish Date", name: "date", widget: "datetime" }
         - { label: "Body", name: "body", widget: "markdown"}
